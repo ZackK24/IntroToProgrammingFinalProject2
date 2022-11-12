@@ -1,9 +1,11 @@
-## IntroToProgrammingFinalProjectP1
+## IntroToProgrammingFinalProject
 # Project Title
-Simple overview of use/purpose.
+Home Price Predictor
 
 # Description
-An in-depth paragraph about your project and overview of use.
+This code will be able to help show the user how much their hoem will cost.
+It will take in their inputs based on multiple factors (size, # of bedrooms, etc), then it will use data based from San Jose to then tell the user how much 
+the hoem would cost.
 ## Getting Started
 ### Dependencies
 Describe any prerequisites, libraries, OS version, etc., needed before installing program.
